@@ -15,3 +15,4 @@ YouTube Videos
 * [Attention in Transformers](https://www.youtube.com/watch?v=eMlx5fFNoYc)
 * [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 * [ML Explained Stat Quest](https://www.youtube.com/@statquest/videos)
+* [How Deep Neural Networks work](https://www.youtube.com/watch?v=dPWYUELwIdM)
