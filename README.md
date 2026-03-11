@@ -1,11 +1,15 @@
 # ML-tutorials
 Best and most usefull tutorials on ML, DNN and AI
 
+General link
 * [Learn AI Engineering](https://github.com/ashishps1/learn-ai-engineering) Great List of tutorials
 * [Neural Networks: Zero to Hero](https://karpathy.ai/zero-to-hero.html) by Karpathy.ai
 * [AI by hand](https://www.byhand.ai/)
 * [Accelerated COmputing](https://accelerated-computing.academy/fall25/lectures/)
-* [Transformer Visulaized!](https://poloclub.github.io/transformer-explainer/)  
+* [Transformer Visulaized!](https://poloclub.github.io/transformer-explainer/)
+
+Hardware and AI
+* [Designing AI Chips](https://docs.google.com/document/d/1dZ3vF8GE8_gx6tl52sOaUVEPq0ybmai1xvu3uk89_is/edit)
 
 YouTube Videos
 * [Stanford CME295 L1: Transformers](https://www.youtube.com/watch?v=Ub3GoFaUcds)
