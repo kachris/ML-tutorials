@@ -7,6 +7,8 @@ General link
 * [AI by hand](https://www.byhand.ai/)
 * [Accelerated COmputing](https://accelerated-computing.academy/fall25/lectures/)
 * [Transformer Visulaized!](https://poloclub.github.io/transformer-explainer/)
+* [Insise NVIDIA GPU](https://www.aleksagordic.com/blog/matmul)
+* [Language Modeling from Scratch](https://cs336.stanford.edu/spring2025/)
 
 Hardware and AI
 * [Designing AI Chips](https://docs.google.com/document/d/1dZ3vF8GE8_gx6tl52sOaUVEPq0ybmai1xvu3uk89_is/edit)
@@ -21,3 +23,5 @@ YouTube Videos
 * [Let's build GPT: from scratch, in code, spelled out](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 * [ML Explained Stat Quest](https://www.youtube.com/@statquest/videos)
 * [How Deep Neural Networks work](https://www.youtube.com/watch?v=dPWYUELwIdM)
+* [Understanding LLM Inference](https://www.youtube.com/watch?v=NJ1jAfWR84k)
+* [Mastering LLM Inference Optimization](https://www.youtube.com/watch?v=9tvJ_GYJA-o)
