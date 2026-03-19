@@ -9,6 +9,7 @@ General link
 * [Transformer Visulaized!](https://poloclub.github.io/transformer-explainer/)
 * [Insise NVIDIA GPU](https://www.aleksagordic.com/blog/matmul)
 * [Language Modeling from Scratch](https://cs336.stanford.edu/spring2025/)
+* [AI performance engineering](https://github.com/cfregly/ai-performance-engineering/tree/main)
 
 Hardware and AI
 * [Designing AI Chips](https://docs.google.com/document/d/1dZ3vF8GE8_gx6tl52sOaUVEPq0ybmai1xvu3uk89_is/edit)
