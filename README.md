@@ -11,6 +11,9 @@ General link
 * [Language Modeling from Scratch](https://cs336.stanford.edu/spring2025/)
 * [AI performance engineering](https://github.com/cfregly/ai-performance-engineering/tree/main)
 
+Misc AI
+* [AI engineering](https://github.com/rohitg00/ai-engineering-from-scratch)
+
 Hardware and AI
 * [Designing AI Chips](https://docs.google.com/document/d/1dZ3vF8GE8_gx6tl52sOaUVEPq0ybmai1xvu3uk89_is/edit)
 
