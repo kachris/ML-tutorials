@@ -29,3 +29,6 @@ YouTube Videos
 * [How Deep Neural Networks work](https://www.youtube.com/watch?v=dPWYUELwIdM)
 * [Understanding LLM Inference](https://www.youtube.com/watch?v=NJ1jAfWR84k)
 * [Mastering LLM Inference Optimization](https://www.youtube.com/watch?v=9tvJ_GYJA-o)
+
+DeepLearning.ai
+* [Transformers in practice](https://www.deeplearning.ai/courses/transformers-in-practice)
